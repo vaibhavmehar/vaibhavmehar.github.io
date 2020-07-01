@@ -250,8 +250,7 @@ body
 {
 	.slider
 	{
-		width: 100%;
-		
+		width: 100%;		
 		margin-left: 0px;
 	}
 
@@ -289,7 +288,7 @@ body
 	{		
 		
 		width: 100%;
-		margin: 0% 15% 0% 15%;	
+		margin-left: 10%;	
 		transition: 1s;
 		cursor: pointer;
 		
