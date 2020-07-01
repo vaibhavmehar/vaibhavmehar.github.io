@@ -253,11 +253,6 @@ body
 		width: 100%;		
 		margin-left: 0px;
 	}
-	
-	.slider img
-	{
-		height: 250px;
-	}
 
 }
 
@@ -285,7 +280,9 @@ body
 {
 	.featured-catagries
 	{
-		margin: 0% 10% 0% 10%;	
+		width: 100%;
+		padding: 30px;
+		margin: 0% 8% 0% 10%;	
 	}
 	
 	.featured-catagries img
@@ -293,6 +290,7 @@ body
 		
 		border: 0.5px solid gray;	
 		box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.5);
+		margin: 10% 0% 10% 0%;	
 		width: 80%;
 		
 	}
