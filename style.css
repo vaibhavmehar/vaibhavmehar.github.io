@@ -287,9 +287,9 @@ body
 	.featured-catagries img
 	{
 
-		margin: 0% 6% 0% 6%;
-		width: 90%;
-		padding: 20px 30px;
+		margin: 0% 2% 0% 2%;
+		width: 100%;
+		padding: 20px 10px;
 		transition: 1s;
 		cursor: pointer;
 		
