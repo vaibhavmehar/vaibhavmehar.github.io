@@ -283,6 +283,17 @@ body
 		width: 100%;
 		padding: 40px;
 	}
+	
+	.featured-catagries img
+	{
+
+		margin: 0% 6% 0% 6%;
+		width: 90%;
+		padding: 20px 30px;
+		transition: 1s;
+		cursor: pointer;
+		
+	}
 }
 
 /*----------------------------------On sale product----------------------------------*/
