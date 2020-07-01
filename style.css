@@ -128,7 +128,19 @@ body
 		height: 57px;
 		width: 100%;		
 	}
-	
+	.menu-bar ul  li a
+	{
+		font-size: 13px;
+		font-weight: bold;
+		color: #fff;
+		text-decoration: none;
+	}
+	body
+	{
+			background-color: #f1f3f4;
+			font-family: sans-serif;
+			
+	}
 }
 
 /*-----------------side-menu---------------------------------------*/
